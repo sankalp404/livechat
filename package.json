@@ -1,0 +1,23 @@
+{
+  "name": "livechat",
+  "version": "0.0.0",
+  "description": "Chat app using socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sankalp404/livechat"
+  },
+  "author": "Sankalp Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sankalp404/livechat/issues"
+  },
+  "homepage": "https://github.com/sankalp404/livechat",
+  "dependencies": {
+    "express": "^4.15.3",
+    "socket.io": "^2.0.3"
+  }
+}
